@@ -1,19 +1,18 @@
-# DTS REA4 Final Project
+Link GIF :
+https://gfycat.com/plasticsmugelephantbeetle
 
-Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google.com/document/d/122KyWNQ4xxU4aFwWbM4vIfH7LM4AH2CZEZa3YsEHjCk). 
+link Github : 
+https://github.com/asepshogun/dts4a-45-final
 
-## Daftar pair
+link api MOVIE :
+https://api.themoviedb.org/3/" 
+ 
+Fitur :
+1.Login
+2.Logout
+3.Register
+4.Halaman Utama
+5.Halaman Detail film dipilih
+6.Sebuah fitur (Pencarian)
 
-Tugas dikerjakan secara berpasangan, untuk daftar kelompok bisa dilihat pada masing-masing Classroom atau Discord Class.
-
-## Fork and Clone
-
-Mohon perwakilan dari pair bisa melakukan fork repo ini dan clone, untuk repositori yang di fork menggunakan penamaan:
-
-`dts4[a/b/c]-[nomor pair]-final`
-
-Contoh: `dts4a-01-final`
-
-## Branching, commit
-
-Branch dapat sesuai dengan kebutuhan dan kesepakatan bersama dalam pair, namun hasil akhirnya harus di merge ke branch `main` dan di push ke Github. Pastikan hasil akhir kode sudah ter-push!
+Developed by : AsepRizalN
